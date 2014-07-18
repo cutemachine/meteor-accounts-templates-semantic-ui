@@ -2,6 +2,13 @@
 accounts-templates-semantic-ui
 ==============================
 
+**This is a forked repository. It uses the cloned accounts-templates-core:**
+
+    https://github.com/cutemachine/accounts-templates-core.git
+
+Original Readme Below
+---
+
 Meteor sign up and sign in templates styled for twitter Semantic UI
 
 This package depends on [accounts-templates-core](https://atmospherejs.com/package/accounts-templates-core)
